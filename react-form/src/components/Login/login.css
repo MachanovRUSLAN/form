@@ -1,0 +1,18 @@
+.login {
+    position: fixed;
+    inset: 0;
+    background-color: rgb(24, 22, 22);
+    display: grid;
+    place-items: center;
+}
+form {
+    width: 300px;
+    box-shadow:  0 0 10px -2px violet;
+}
+form input {
+    width: 100%;
+    padding-inline-start: 10px 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}

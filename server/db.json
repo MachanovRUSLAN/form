@@ -1,0 +1,41 @@
+{
+    "todos":[
+        {
+            "id":1,
+            "title":"sass oyrenecem",
+            "userid":1
+        },
+        {
+            "id":1,
+            "title":"javascript oyrenecem",
+            "userid":2
+        },
+        {
+            "id":1,
+            "title":"next oyrenecem",
+            "userid":2
+        },
+        {
+            "id":1,
+            "title":"jreact oyrenecem",
+            "userid":1
+        },
+        {
+            "id":1,
+            "title":"query oyrenmeyecem",
+            "userid":1
+        }
+    ],
+    "users":[
+        {
+            "id":1,
+            "useremail":"user1@email.com",
+            "password":123
+        },
+        {
+            "id":2,
+            "useremail":"user2@email.com",
+            "password":321
+        }
+    ]
+}
